@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "resume-cli": "^3.0.8",
-    "jsonresume-theme-rickosborne": "^3.1.1"
+    "jsonresume-theme-rickosborne": "2022.9.16-T1450"
   }
 }
