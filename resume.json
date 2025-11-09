@@ -1,0 +1,421 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Adil Leghari",
+    "label": "Senior Solutions Engineer | Cloud & Security Architect | CNAPP & Zero Trust Specialist",
+    "image": "",
+    "email": "adilio@gmail.com",
+    "phone": "+1(604) 537-3400",
+    "url": "https://github.com/adilio",
+    "summary": "Senior Solutions Engineer with 15+ years of experience helping enterprises secure and accelerate their multi-cloud adoption across AWS, Azure, and GCP. Proven success in pre-sales, cloud security architecture, and executive storytelling that drives measurable business outcomes. Recognized for translating complex technical concepts into business value, mentoring high-performing SE teams, and enabling organizations to adopt Zero Trust and CNAPP strategies. Experienced across Education/Public Sector, startups, and Fortune 500 environments, offering a unique perspective on how teams evolve through growth and transformation.",
+    "location": {
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "British Columbia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "adilio",
+        "url": "https://github.com/adilio"
+      },
+      {
+        "network": "Twitter",
+        "username": "adilio",
+        "url": "https://twitter.com/adilio"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "adilio",
+        "url": "https://linkedin.com/in/adilio"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Palo Alto Networks",
+      "position": "Cloud Solutions Architect",
+      "url": "https://www.paloaltonetworks.com",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "Advising organizations on CNAPP and shift-left cloud security strategies across AWS, Azure, and GCP.",
+      "highlights": [
+        "Advise organizations across AWS, Azure, and GCP on CNAPP and shift-left cloud security strategies, including CSPM, CWPP, and DSPM",
+        "Conduct multi-cloud posture assessments and deliver actionable remediation roadmaps to CISOs and security architects",
+        "Partner with Sales and Product leadership to align technical value delivery with revenue objectives, achieving 100% quota attainment (Century Club FY25)",
+        "Awarded Q4 DC MVP and recognized in FY25 Q3 DC Excellence for creating and presenting Cortex Cloud platform demos for FUEL events in Vancouver and Calgary",
+        "Provide mentorship and enablement to peers and partner architects to scale customer success across the region"
+      ]
+    },
+    {
+      "name": "Okta",
+      "position": "Senior Solutions Engineer",
+      "url": "https://www.okta.com",
+      "startDate": "2022-10-01",
+      "endDate": "2024-12-01",
+      "summary": "Delivered enterprise-grade identity and Zero Trust solutions, earning Enterprise SE Impact of the Year (FY24) for Canada.",
+      "highlights": [
+        "Delivered enterprise-grade identity and Zero Trust solutions across Canada and Central regions, partnering with CISOs and security leaders to modernize authentication and access frameworks",
+        "Closed $2.8M ARR and earned the Okta Enterprise SE Impact of the Year (FY24) for Canada through high-impact technical demos, proof-of-concepts, and executive alignment",
+        "Led regional enablement for Solution Engineers, coaching teams on discovery methods, demo storytelling, and value-based sales execution",
+        "Partnered cross-functionally with Product and Marketing to refine technical assets, elevating pre-sales content quality and win rates across strategic accounts"
+      ]
+    },
+    {
+      "name": "Cloudsmith",
+      "position": "Lead, Solution Architecture",
+      "url": "https://cloudsmith.com",
+      "startDate": "2022-01-01",
+      "endDate": "2022-10-01",
+      "summary": "Built and led a distributed Solution Architecture team supporting enterprise clients across North America.",
+      "highlights": [
+        "Built and led a distributed Solution Architecture team supporting enterprise and mid-market clients across North America",
+        "Created standardized onboarding and demo frameworks that reduced customer time-to-value, accelerating adoption and renewals",
+        "Partnered with Product and Marketing to translate customer insights into roadmap priorities, influencing feature development",
+        "Represented Cloudsmith at global DevOps and Security conferences (KubeCon EU, cdCon, PowerShell & DevOps Summit)",
+        "Produced technical blogs, videos, and webinars that increased community engagement and inbound pipeline"
+      ]
+    },
+    {
+      "name": "Chocolatey Software",
+      "position": "Senior Solutions Engineer",
+      "url": "https://chocolatey.org",
+      "startDate": "2019-08-01",
+      "endDate": "2022-01-01",
+      "summary": "Served as trusted advisor for enterprise customers automating software delivery.",
+      "highlights": [
+        "Promoted from Technical Sales Engineer after demonstrating consistent performance and customer success impact",
+        "Served as trusted advisor for enterprise customers automating software delivery",
+        "Delivered technical demos, proof-of-concepts, and onboarding for enterprise clients",
+        "Hosted webinars and livestreams that improved customer retention and product understanding",
+        "Authored the Chocolatey for Business Quick-Start Guide, reducing deployment time from days to hours"
+      ]
+    },
+    {
+      "name": "UBC Business Information Systems, UBC",
+      "position": "Senior System Analyst II",
+      "url": "https://www.ubc.ca",
+      "startDate": "2009-01-01",
+      "endDate": "2019-08-01",
+      "summary": "Managed hybrid infrastructure and mentored analysts supporting critical academic and administrative services.",
+      "highlights": [
+        "Managed hybrid infrastructure spanning hundreds of Windows and Linux servers",
+        "Automated provisioning and configuration management via Ansible, PowerShell, and Bash",
+        "Mentored analysts and led Tier III support for critical academic and administrative services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of British Columbia",
+      "url": "https://www.ubc.ca",
+      "area": "Psychology (Cognitive Neuroscience)",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2001-09-01",
+      "endDate": "2005-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "FY25 Century Club",
+      "date": "2025-01-01",
+      "awarder": "Palo Alto Networks",
+      "summary": "Achieved 100% quota attainment in FY25"
+    },
+    {
+      "title": "Q4 DC MVP",
+      "date": "2025-01-01",
+      "awarder": "Palo Alto Networks",
+      "summary": "Awarded for cross-functional collaboration and customer success"
+    },
+    {
+      "title": "FY25 Q3 DC Excellence",
+      "date": "2025-01-01",
+      "awarder": "Palo Alto Networks",
+      "summary": "Recognized for creating and presenting Cortex Cloud platform demos for FUEL events"
+    },
+    {
+      "title": "Enterprise SE Impact of the Year FY24",
+      "date": "2024-01-01",
+      "awarder": "Okta",
+      "summary": "Awarded for Canada region after closing $2.8M ARR"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Cloud Practitioner",
+      "date": "2024-01-01",
+      "issuer": "Amazon Web Services",
+      "url": ""
+    },
+    {
+      "name": "Okta Certified Administrator",
+      "date": "2022-01-01",
+      "issuer": "Okta",
+      "url": ""
+    },
+    {
+      "name": "Okta Certified Professional",
+      "date": "2022-01-01",
+      "issuer": "Okta",
+      "url": ""
+    },
+    {
+      "name": "Azure Fundamentals (AZ-900)",
+      "date": "2021-01-01",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "LFCS",
+      "date": "2017-01-01",
+      "issuer": "Linux Foundation",
+      "url": ""
+    },
+    {
+      "name": "MCSA",
+      "date": "2016-01-01",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "ITIL Foundation",
+      "date": "2013-01-01",
+      "issuer": "AXELOS",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Ansible in Practice, for the PowerShell Aficionado",
+      "publisher": "The PowerShell Conference Book, Vol. 2",
+      "releaseDate": "2019-01-01",
+      "url": "https://leanpub.com/powershell-conference-book-vol-2",
+      "summary": "Book chapter on using Ansible from a PowerShell perspective"
+    },
+    {
+      "name": "The PowerShell Conference Book, Vol. 3",
+      "publisher": "Leanpub",
+      "releaseDate": "2020-01-01",
+      "url": "https://leanpub.com/powershell-conference-book-vol-3",
+      "summary": "Served as editor for community-driven PowerShell book"
+    },
+    {
+      "name": "Attentional SNARC: There's something special about numbers",
+      "publisher": "Cognition",
+      "releaseDate": "2008-01-01",
+      "url": "",
+      "summary": "Dodd, M.D., Stigchel, S. Vd., Leghari, M.A., Fung, G., & Kingstone, A."
+    },
+    {
+      "name": "Does impaired cerebellar function contribute to risk of falls in seniors: a functional MRI study",
+      "publisher": "Journal of the American Geriatrics Society",
+      "releaseDate": "2008-01-01",
+      "url": "",
+      "summary": "Liu-Ambrose, T., Nagamatsu, L., Leghari, A., & Handy, T.C."
+    },
+    {
+      "name": "Neural systems mediating field and observer memories",
+      "publisher": "Neuropsychologia",
+      "releaseDate": "2009-01-01",
+      "url": "",
+      "summary": "Eich, E., Nelson, A., Leghari, M. A., & Handy, T. C."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Networking & Security",
+      "level": "Expert",
+      "keywords": [
+        "Zero Trust",
+        "IAM",
+        "SSO",
+        "MFA",
+        "VPN",
+        "EDR",
+        "XDR",
+        "CDR"
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "level": "Expert",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "CNAPP",
+        "CSPM",
+        "CWPP",
+        "DSPM"
+      ]
+    },
+    {
+      "name": "Automation & Tooling",
+      "level": "Expert",
+      "keywords": [
+        "PowerShell",
+        "Python",
+        "Bash",
+        "Terraform",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "DevOps & CI/CD",
+      "level": "Expert",
+      "keywords": [
+        "GitHub Actions",
+        "Azure DevOps",
+        "GitLab",
+        "Bitbucket",
+        "Kubernetes",
+        "Docker",
+        "CI/CD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "PowerShell & Your Next Career Steps: Oh, the Places You'll Go!",
+      "description": "Conference talk on career development in PowerShell ecosystem",
+      "highlights": [
+        "Presented at PowerShell & DevOps Global Summit"
+      ],
+      "keywords": [
+        "PowerShell",
+        "Career Development"
+      ],
+      "startDate": "2023-04-25",
+      "endDate": "2023-04-25",
+      "url": "https://www.youtube.com/watch?v=example",
+      "roles": [
+        "Speaker"
+      ],
+      "entity": "PowerShell & DevOps Global Summit",
+      "type": "conference"
+    },
+    {
+      "name": "From Zero to Repo in 60 Seconds",
+      "description": "Conference talk on rapid repository setup and automation",
+      "highlights": [
+        "Presented at cdCon"
+      ],
+      "keywords": [
+        "DevOps",
+        "Automation",
+        "CI/CD"
+      ],
+      "startDate": "2022-06-07",
+      "endDate": "2022-06-07",
+      "url": "https://www.youtube.com/watch?v=example",
+      "roles": [
+        "Speaker"
+      ],
+      "entity": "cdCon",
+      "type": "conference"
+    },
+    {
+      "name": "Is it Down Again? PowerShell Gallery Outage Mitigation Strategies",
+      "description": "Conference talk on resilience and mitigation strategies for PowerShell Gallery",
+      "highlights": [
+        "Presented at PowerShell & DevOps Global Summit"
+      ],
+      "keywords": [
+        "PowerShell",
+        "DevOps",
+        "Resilience"
+      ],
+      "startDate": "2022-04-25",
+      "endDate": "2022-04-25",
+      "url": "https://www.youtube.com/watch?v=example",
+      "roles": [
+        "Speaker"
+      ],
+      "entity": "PowerShell & DevOps Global Summit",
+      "type": "conference"
+    },
+    {
+      "name": "CM Smackdown: Battle of the Configuration Managers",
+      "description": "Conference talk comparing different configuration management tools",
+      "highlights": [
+        "Presented at PowerShell & DevOps Global Summit"
+      ],
+      "keywords": [
+        "Configuration Management",
+        "Ansible",
+        "PowerShell"
+      ],
+      "startDate": "2021-04-29",
+      "endDate": "2021-04-29",
+      "url": "https://www.youtube.com/watch?v=example",
+      "roles": [
+        "Speaker"
+      ],
+      "entity": "PowerShell & DevOps Global Summit",
+      "type": "conference"
+    },
+    {
+      "name": "The Cloudstream",
+      "description": "Hosted and produced live YouTube stream showcasing Cloudsmith product and features",
+      "highlights": [
+        "Regular live streaming content",
+        "Product demonstrations and tutorials"
+      ],
+      "keywords": [
+        "Streaming",
+        "DevOps",
+        "Product Evangelism"
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "2022-10-01",
+      "url": "https://www.youtube.com/@cloudsmith",
+      "roles": [
+        "Host",
+        "Producer"
+      ],
+      "entity": "Cloudsmith",
+      "type": "video"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2025-11-08T00:00:00"
+  }
+}

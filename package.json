@@ -1,0 +1,22 @@
+{
+  "name": "adil-leghari-resume",
+  "version": "1.0.0",
+  "description": "Adil Leghari's professional resume using JSON Resume with Rickosborne theme",
+  "main": "resume.json",
+  "scripts": {
+    "serve": "resume serve --theme rickosborne",
+    "export": "resume export index.html --theme rickosborne",
+    "validate": "resume validate"
+  },
+  "keywords": [
+    "resume",
+    "json-resume",
+    "cv"
+  ],
+  "author": "Adil Leghari <adilio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "resume-cli": "^3.0.8",
+    "jsonresume-theme-rickosborne": "^3.1.1"
+  }
+}
