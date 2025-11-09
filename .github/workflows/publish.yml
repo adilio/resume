@@ -34,6 +34,9 @@ jobs:
         run: npx resume validate
         continue-on-error: true
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Create output directory
         run: mkdir -p _site
 
