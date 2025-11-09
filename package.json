@@ -4,8 +4,8 @@
   "description": "Adil Leghari's professional resume using JSON Resume with Rickosborne theme",
   "main": "resume.json",
   "scripts": {
-    "serve": "resume serve --theme rickosborne",
-    "export": "resume export index.html --theme rickosborne",
+    "serve": "resume serve --theme ./themes/rickosborne-enhanced",
+    "export": "resume export index.html --theme ./themes/rickosborne-enhanced",
     "validate": "resume validate"
   },
   "keywords": [
